@@ -1,11 +1,11 @@
-##Personal Portfolio Website
+# Personal Portfolio Website
 A responsive personal portfolio website created as part of the.
 The portfolio presents my profile as a **Developer & AI/ML Learner**, highlights my skills and projects, and provides a simple way to learn more about me and get in touch.
 
-#Objective
+# Objective
 The objective of this project is to build a professional and responsive personal portfolio website using core frontend technologies.
 
-The project focuses on:
+# The project focuses on:
 * Semantic HTML structure
 * Responsive web design
 * CSS-based layouts and styling
@@ -14,14 +14,13 @@ The project focuses on:
 * Simple navigation and user experience
 * Professional project presentation
 
-#Technologies Used
+# Technologies Used
+HTML5
+CSS3
+Git
+GitHub
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-
-#Features
+# Features
 * Responsive personal portfolio
 * Home page with introduction and hero section
 * About page with profile information
@@ -35,8 +34,7 @@ The project focuses on:
 
 
 # Website Pages
-
-# Home
+Home
 Introduces my profile with:
 * Name
 * Professional role
@@ -45,7 +43,7 @@ Introduces my profile with:
 * My Expertise section
 * footer
   
-#About
+# About
 Provides information about my background, interests, and development journey.
 
 # Projects
@@ -63,7 +61,7 @@ Showcases projects divided into:
 1. Plant Disease Detector – AI-based plant disease detection application
 2. AI Student Performance Advisor – Machine learning application for student performance analysis
 
-#Contact
+# Contact
 Provides contact information and a contact form for communication.
 
 
