@@ -52,12 +52,12 @@ Showcases projects divided into:
 * AI / Machine Learning
 
 # Projects Featured
-# Web Development
+#Web Development
 1. Fashion Collection – MERN-based e-commerce website
 2. TodoList – Web application using REST API and MongoDB
 3. ElderAssist – MERN platform connecting elderly users with verified helpers
 
-# AI / Machine Learning
+#AI / Machine Learning
 1. Plant Disease Detector – AI-based plant disease detection application
 2. AI Student Performance Advisor – Machine learning application for student performance analysis
 
