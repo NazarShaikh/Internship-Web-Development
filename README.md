@@ -1,73 +1,165 @@
-# Personal Portfolio Website
-A responsive personal portfolio website created as part of the.
-The portfolio presents my profile as a **Developer & AI/ML Learner**, highlights my skills and projects, and provides a simple way to learn more about me and get in touch.
+# Week 1 Tasks – Web Development Internship
 
-# Objective
-The objective of this project is to build a professional and responsive personal portfolio website using core frontend technologies.
+This repository contains the three frontend development assignments completed as part of **Week 1 of the Web Development Internship at WeIntern Pvt Ltd**.
 
-# The project focuses on:
-* Semantic HTML structure
-* Responsive web design
-* CSS-based layouts and styling
-* Clean and maintainable code
-* Consistent UI design
-* Simple navigation and user experience
-* Professional project presentation
+The tasks focus on semantic HTML, CSS styling, responsive design, Flexbox, CSS Grid, CSS animations, UI design, and professional GitHub project organization.
+
+
+
+# Task 1 – Professional Portfolio Website
+
+#Objective
+Build a professional personal portfolio website that presents a developer profile, projects, technical skills, and contact information through a clean and responsive multi-page interface.
 
 # Technologies Used
-HTML5
-CSS3
-Git
-GitHub
+
+* HTML5
+* CSS3
+* Git
+* GitHub
 
 # Features
-* Responsive personal portfolio
-* Home page with introduction and hero section
-* About page with profile information
-* Projects page showcasing web development and AI/ML projects
-* Contact page with contact information and form
-* My Expertise section
-* Responsive layouts for different screen sizes
-* Hover effects and UI interactions
-* Consistent navigation across pages
-* Clean and organized project structure
 
-
-# Website Pages
-Home
-Introduces my profile with:
-* Name
-* Professional role
-* Short introduction
-* Project and contact navigation
-* My Expertise section
-* footer
-  
-# About
-Provides information about my background, interests, and development journey.
-
-# Projects
-Showcases projects divided into:
-* Web Development
-* AI / Machine Learning
-
-# Projects Featured
-#Web Development
-1. Fashion Collection – MERN-based e-commerce website
-2. TodoList – Web application using REST API and MongoDB
-3. ElderAssist – MERN platform connecting elderly users with verified helpers
-
-#AI / Machine Learning
-1. Plant Disease Detector – AI-based plant disease detection application
-2. AI Student Performance Advisor – Machine learning application for student performance analysis
-
-# Contact
-Provides contact information and a contact form for communication.
+* Responsive multi-page portfolio
+* Home page with professional introduction
+* About page
+* Projects page
+* Contact page
+* Developer expertise section
+* Responsive layouts for desktop, tablet, and mobile
+* Flexbox and CSS Grid layouts
+* Contact form
+* Social links
+* Footer navigation
+* Hover and focus effects
+* Clean and consistent visual design
 
 
 
-# Live Website
+# Live Project
 
-**Live Demo:**
-ADD_YOUR_DEPLOYMENT_LINK_HERE
+**Live Link:** = https://github.com/NazarShaikh/Internship-Web-Development/
 
+
+
+# Task 2 – Responsive Business Landing Page
+
+#Objective
+Create a modern and responsive business landing page that communicates the services of a business clearly and provides a professional user experience across desktop, tablet, and mobile devices.
+
+# Project
+CarePlus Clinic – Healthcare Landing Page
+CarePlus Clinic is a responsive healthcare website designed to present clinic information, services, doctors, contact details, and appointment booking in a clean and professional interface.
+
+# Technologies Used
+* HTML5
+* CSS3
+* Responsive Web Design
+
+# Features
+* Responsive navigation bar
+* Active page navigation highlighting
+* CarePlus Clinic branding
+* Hero section
+* Clinic highlights
+* Doctors section
+* About page
+* Services page
+* Contact page
+* Appointment booking page
+* Contact and appointment forms
+* Responsive layouts
+* Mobile-friendly navigation
+* Consistent red, black, and white visual theme
+* Hover effects and interactive elements
+
+
+# Live Project
+Live Link: = https://github.com/NazarShaikh/Internship-Web-Development/
+
+
+
+# Task 3 – CSS Challenge
+
+#Objective
+Develop focused CSS mini-exercises to demonstrate practical understanding of **Flexbox, CSS Grid, responsive layouts, transitions, transforms, and animations**.
+
+# Technologies Used
+* HTML5
+* CSS3
+
+
+# Exercise 01 – Flexbox Testimonials
+Created a responsive testimonial card layout using CSS Flexbox.
+
+Features:
+* Three testimonial cards
+* Horizontal layout on desktop
+* Vertical layout on smaller screens
+* `display: flex`
+* `justify-content`
+* `align-items`
+* `gap`
+* Flexible card widths
+* Hover interaction
+
+# Exercise 02 – CSS Grid Gallery
+Created a responsive gallery using CSS Grid.
+
+Features:
+* Six gallery items
+* Three-column desktop layout
+* Two-column tablet layout
+* Single-column mobile layout
+* `display: grid`
+* Responsive grid columns
+* Consistent spacing and card styling
+* Hover effects
+
+# Exercise 03 – CSS Animation
+Created an interactive animation component using CSS transitions and keyframe animations.
+
+Features:
+* Animated card
+* Hover interaction
+* Animated icon
+* Glow effects
+* Pulse animation
+* Orbit animation
+* Button hover animation
+* Button shine effect
+* CSS keyframes
+* Transform and transition effects
+
+# 📱 Responsive Design
+
+All three tasks were developed with responsive design principles in mind.
+
+The projects were tested across different screen sizes to ensure:
+* Proper alignment
+* Readable text
+* Responsive cards and layouts
+* Mobile-friendly sections
+* No unnecessary horizontal scrolling
+* Appropriate spacing across breakpoints
+
+
+
+
+#  Author
+
+**Nazar Shaikh**
+
+BCA Graduate | Developer & AI/ML Learner
+
+GitHub: https://github.com/NazarShaikh/
+
+
+
+
+
+# Internship
+Web Development Internship – Week 1
+Organization: WeIntern Pvt Ltd
+
+Focus: Frontend Web Development, Responsive Design, CSS Layouts, Git & GitHub
